@@ -48,7 +48,7 @@ https://us02web.zoom.us/j/85060425333?pwd=QXJiZmhaVTB0cTJtenoyOTBJM24rUT09
 
 
 # Experience - Food delivery system - フードデリバリーシステム(Django, React,  Xserver )
-https://
+https://aichi-meshi.com/ <br>
 外食産業のクライアント向けに、DjangoとReact, PostgreSQLを使ったフードデリバリー管理システムを開発したことがありました。<br>
 このプロジェクトは、料理の注文、配達、支払いの管理プロセスを合理化し、レストランのスタッフがこれらの作業を効率的に処理することを容易にすることを目的としていました。<br>
 
