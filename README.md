@@ -9,7 +9,7 @@ address - 85 Okudamiyanagachō, Inazawa, Aichi 492-8254, Japan <br/>
 name - 前田  Maeda <br/>
 CW id - yuta_maeda
 
-# link
+# interview link
 https://us02web.zoom.us/j/85060425333?pwd=QXJiZmhaVTB0cTJtenoyOTBJM24rUT09
 
 # requirement
